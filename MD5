@@ -1,7 +1,7 @@
-e526efdf868bcd51eacb66518d7f76bd *DESCRIPTION
+8c3088e22aa44d5b39fddc98a235f3f7 *DESCRIPTION
 3f920d18d18b3e03d0205e3433902455 *LICENSE
 cd4126749f13e552bb685ef1b123cbad *NAMESPACE
-9cb434f3e280417ea3117ab51c6e1cea *NEWS.md
+a47fdb2dadc67c25e6b5824ca900c18c *NEWS.md
 7f6a76e59e373124d84edfe420646925 *R/aaa.R
 edc7cfbc40e3ffee5f4a9a49341f1d3c *R/cctx.R
 512c69d8375629e6e6ecc8848fe3eaf5 *R/dictionaries.R
@@ -12,7 +12,7 @@ ee21ec6cd779a5568c66689dd55d65af *inst/COPYRIGHTS
 0822a32f7acdbe013606746641746ee8 *inst/LICENSE-zstd
 128439a0601f831cf031b71ef7119b48 *inst/doc/dictionaries.R
 16d15d7cf6f4e86da1b21eb2043db571 *inst/doc/dictionaries.Rmd
-86892829b339a59ce8b6613a77773f0c *inst/doc/dictionaries.html
+0d2638abb43679e193329ae3c900e5c6 *inst/doc/dictionaries.html
 e6be80f7b6df0b82c7935b68a2f988f2 *inst/sample_dict.raw
 90e45e39a3fc0eea962efce3a900a726 *man/figures/README-unnamed-chunk-4-1.png
 f959bd2f3e4d9e74221ab81dcdf771ae *man/figures/comparison.png

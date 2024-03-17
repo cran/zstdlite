@@ -1,4 +1,10 @@
 
+# zstdlite 0.2.7  2024-03-14
+
+* Fixes for CRAN
+    * Clarify copyright holder in DESCRIPTION
+    * Add 'cran-comments.md'
+
 # zstdlite 0.2.6  2024-03-10
 
 * Fixes for CRAN
